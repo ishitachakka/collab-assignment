@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Collaborator made this change.
+=======
+This is a project file for our collaboration assignment.
+>>>>>>> 0858b81 (Initial commit: added project file)
